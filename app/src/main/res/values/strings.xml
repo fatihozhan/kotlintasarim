@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TasarimCalismasi</string>
+    <string name="textYazi"> Hello </string>
+    <string name="buttonYazi"> Next </string>
+</resources>
